@@ -1,0 +1,3 @@
+Name = input(user("Enter your Name:-"))
+Father Name = input(user("Enter your Name:-"))
+Mother Name = input(user("Enter your Name:-"))
